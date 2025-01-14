@@ -8,6 +8,7 @@ Cannot do:
 
 Solution for idle animations: if the last key pressed was .., then it sets to false, and displayes the idle animation when its xyvelocity is 0;
 
+
 14.01.2025
 
 My goal for today is to implement an object "coin", and implement the score when collecting it
