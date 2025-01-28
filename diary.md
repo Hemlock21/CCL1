@@ -16,6 +16,18 @@ Difficulties: the object "coin" existed, but wasnt displayed.
 
 FINISHED: 
 - spritesheet for object cat;
-- spritesheet for coin, its functionalitu
+- spritesheet for coin, its functionality
 - implemented a score
 - created additonal two objects (key & door) and its functionality, not displayed yet.
+
+15.01.2025
+- gravity applied
+
+16.01.2025
+- implemented a new functionality to makee the character smaller for him to go through narrow spaces pressing key "c"
+- did an image of the door, block
+- spritesheet for the key
+- block to stay on
+
+  WANT TO DO:
+- implement an animation when shifting to small form
