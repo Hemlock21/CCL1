@@ -8,9 +8,7 @@ Cannot do:
 
 Solution for idle animations: if the last key pressed was .., then it sets to false, and displayes the idle animation when its xyvelocity is 0;
 
-
 14.01.2025
-
 My goal for today is to implement an object "coin", and implement the score when collecting it
 Difficulties: the object "coin" existed, but wasnt displayed.
 
@@ -29,5 +27,21 @@ FINISHED:
 - spritesheet for the key
 - block to stay on
 
-  WANT TO DO:
-- implement an animation when shifting to small form
+17.01.2025
+- fixed minor bugs
+
+20.01.2025
+- had difficulties to access the door when having the key or not
+- implemented a collission block for future background art
+
+21 - 23.01.2025
+got sick :(
+- managed to finish any neccessary art
+- finished background art
+- finished implementing a map
+- replay art
+- functional ui
+- combined the map with the collission blocks
+
+
+
